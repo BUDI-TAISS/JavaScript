@@ -1,2 +1,3 @@
 var hari = ['Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu', 'Minggu']
-console.log(hari[4])
+var binatang = ['Kucing', 'Kelinci', 'Monyet', 'Panda', 'Koala', 'Sapi']
+console.log(binatang[1])
