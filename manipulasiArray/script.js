@@ -24,6 +24,10 @@
 
 
 // Method pada array
-// 1. join
 var arr = ['Sandhika', 'Budi', 'Hanan']
-console.log(arr.join( '_'))
+// 1. join
+// console.log(arr.join( '_'))
+
+// 2. push
+arr.push('Dina', 'Anggun')
+console.log(arr.join('-'))
