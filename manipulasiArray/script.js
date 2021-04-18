@@ -19,5 +19,5 @@
 var arr = ['Sandhika', 'Budi', 'Hanan']
 
 for(i = 0; i < arr.length; i++) {
-    console.log(arr[i])
+    console.log('Mahasiswa ke-' + (i+1) + ' adalah ' + arr[i])
 }
