@@ -10,7 +10,14 @@
 
 // console.log(arr)
 
-//Menghapus isi array
+// Menghapus isi array
+// var arr = ['Sandhika', 'Budi', 'Hanan']
+// arr[1] = undefined
+// console.log(arr)
+
+// Menampilkan isi array
 var arr = ['Sandhika', 'Budi', 'Hanan']
-arr[1] = undefined
-console.log(arr)
+
+for(i = 0; i < arr.length; i++) {
+    console.log(arr[i])
+}
