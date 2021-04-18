@@ -3,4 +3,7 @@
 // 1. Menambah isi array
 
 var arr = []
-console.log(arr[1])
+arr[0] = 'Sandhika'
+arr[1] = 'Budi'
+arr[2] = 'Ika'
+console.log(arr)
