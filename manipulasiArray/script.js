@@ -29,5 +29,9 @@ var arr = ['Sandhika', 'Budi', 'Hanan']
 // console.log(arr.join( '_'))
 
 // 2. push
-arr.push('Dina', 'Anggun')
+//arr.push('Dina', 'Anggun')
+//console.log(arr.join('-'))
+
+//3. pop
+arr.pop()
 console.log(arr.join('-'))
