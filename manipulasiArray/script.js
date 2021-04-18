@@ -16,8 +16,14 @@
 // console.log(arr)
 
 // Menampilkan isi array
-var arr = ['Sandhika', 'Budi', 'Hanan']
+// var arr = ['Sandhika', 'Budi', 'Hanan']
 
-for(i = 0; i < arr.length; i++) {
-    console.log('Mahasiswa ke-' + (i+1) + ' adalah ' + arr[i])
-}
+// for(i = 0; i < arr.length; i++) {
+//     console.log('Mahasiswa ke-' + (i+1) + ' adalah ' + arr[i])
+// }
+
+
+// Method pada array
+// 1. join
+var arr = ['Sandhika', 'Budi', 'Hanan']
+console.log(arr.join( '_'))
